@@ -1,0 +1,6 @@
+inc=yes
+head=native
+lib=hbsqlit3
+libs=hbssl eay32 ssleay32 HBCURL CURL
+libs=hbmxml hmg
+libs=mxml
